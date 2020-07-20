@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Benii0908/DayandNight
+build-by-default: true
+branches:
+- master
+projects:
+  DayandNight:
+    path: ""
+...
