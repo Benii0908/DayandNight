@@ -13,6 +13,6 @@ commands:
  
 permissions:
  day.cmd:
-  default: true
+  default: false
  night.cmd:
-  default: true
+  default: false
