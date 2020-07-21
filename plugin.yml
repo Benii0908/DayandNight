@@ -1,0 +1,18 @@
+name: DayandNight
+main: time\Main
+author: beni0908
+version: 1.0.0 
+api: 3.0.0
+commands:
+ day:
+  description: /day
+  permission: "day.cmd"
+ night:
+  description: /night
+  permission: "night.cmd"
+ 
+permissions:
+ day.cmd:
+  default: true
+ night.cmd:
+  default: true
